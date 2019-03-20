@@ -1,3 +1,12 @@
+# Software necessário
+Os seguintes pacotes (ou seja, bibliotecas) são necessários para concluir este projeto:
+
+* pandas
+* numpy
+* requests
+* tweepy
+* json
+
 # Pontos principais
 Pontos-chave para ter mente quando ao fazer data wrangling para esse projeto:
 
