@@ -25,7 +25,7 @@ Pontos-chave para ter mente quando ao fazer data wrangling para esse projeto:
   2. suas análises e visualizações de dados
 
 # Coletando dados para esse projeto
-Colete cada um dos três pedaços de dados conforme descritos abaixo em um notebook Jupyter intitulado wrangle_act.ipynb:
+Colete cada um dos três pedaços de dados conforme descritos abaixo em um notebook Jupyter intitulado **`wrangle_act.ipynb`**:
 
 1. O arquivo WeRateDogs. Estou dando este arquivo a você, então o imagine como um arquivo já em mãos. Baixe este arquivo manualmente clicando no link a seguir: [`twitter_archive_enhanced.csv`](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv)
 
