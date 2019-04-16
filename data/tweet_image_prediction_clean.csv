@@ -1,4 +1,4 @@
-tweet_id,jpg_url,prediction_try,prediction,confidence,is_a_dog
+tweet_id,jpg_url,prediction_try,prediction_breed,confidence,is_a_dog
 666020888022790149,https://pbs.twimg.com/media/CT4udn0WwAA0aMy.jpg,1,welsh springer spaniel,0.465074,True
 666029285002620928,https://pbs.twimg.com/media/CT42GRgUYAA5iDo.jpg,1,redbone,0.506826,True
 666033412701032449,https://pbs.twimg.com/media/CT4521TWwAEvMyu.jpg,1,german shepherd,0.596461,True
